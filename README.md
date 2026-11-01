@@ -5,7 +5,6 @@
 [![SQLite](https://img.shields.io/badge/SQLite-Zero_Config-003B57.svg?style=flat&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-TF--IDF-F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot-100%25_Free-26A5E4.svg?style=flat&logo=telegram&logoColor=white)](https://core.telegram.org/bots/api)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > **JobFit AI** is an autonomous, open-source AI platform that parses candidate resumes, searches real-time active LinkedIn jobs without limits, computes deep ATS match percentages (0–100%) and selection probabilities, and broadcasts top matches directly to a Telegram bot.
 >
@@ -152,7 +151,7 @@ pip install -r requirements.txt
 1. Open Telegram and search for [@BotFather](https://t.me/BotFather).
 2. Send `/newbot`, choose a name and username (e.g. `MyJobAlertBot`).
 3. Copy the HTTP API token provided (`123456789:ABCdefGhIJKlmNoPQRsTUVwxyZ`).
-4. Search for [@userinfobot](https://t.me/userinfobot) on Telegram and send `/start` to retrieve your numeric **Chat ID** (e.g. `987654321`).
+4. Search for [@userinfobot](https://t.me/userinfobot) on Telegram and send `/start` to retrieve your numeric **Chat ID** (e.g. `987XXXXX6`).
 5. Open your bot in Telegram and click **START** so it has permission to message you.
 6. Enter your token and Chat ID into the web dashboard and click **Save Credentials** (or add them to `.env`).
 
@@ -282,9 +281,3 @@ jobfit_ai/
 ├── SRS.md                    # IEEE 830 Software Requirements Specification
 └── README.md                 # Complete project documentation
 ```
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — free for personal, educational, and commercial use.
