@@ -1,13 +1,4 @@
-# Software Requirements Specification (SRS)
 ## Project: JobFit AI - Intelligent LinkedIn Job Matcher & Autonomous Telegram Notifier
-
----
-
-**Document Version:** 1.0.0  
-**Status:** Approved / Release  
-**Date:** November 2, 2026  
-**Author / Engineering Team:** JobFit AI Systems Team  
-**Architecture Standard:** IEEE Std 830-1998 Conforming  
 
 ---
 
@@ -431,4 +422,3 @@ stateDiagram-v2
 | **TC-08** | Zero Cost Constraint | Entire system runs and delivers alerts without requiring paid API keys or subscriptions. | Architectural Inspection |
 
 ---
-*End of Software Requirements Specification (SRS) - JobFit AI*
