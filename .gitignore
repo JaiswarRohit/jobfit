@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Environment Variables & Secrets
+.env
+.env.local
+
+# Local SQLite Database & Runtime State (Keep folder structure via .gitkeep)
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+data/sent_jobs.json
+data/watcher_config.json
+!data/.gitkeep
+
+# Uploads and temporary candidate documents
+uploads/
+*.pdf
+*.docx
+*.txt
+!requirements.txt
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
