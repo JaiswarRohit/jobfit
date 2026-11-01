@@ -6,7 +6,7 @@
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-TF--IDF-F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot-100%25_Free-26A5E4.svg?style=flat&logo=telegram&logoColor=white)](https://core.telegram.org/bots/api)
 
-> **JobFit AI** is an autonomous, open-source AI platform that parses candidate resumes, searches real-time active LinkedIn jobs without limits, computes deep ATS match percentages (0–100%) and selection probabilities, and broadcasts top matches directly to a Telegram bot.
+> **JobFit AI** is searches real-time active LinkedIn jobs without limits, computes deep ATS match percentages (0–100%) and selection probabilities, and broadcasts top matches directly to a Telegram bot.
 >
 > **100% Free & Local** — No paid LLM subscriptions, no OpenAI tokens, and no LinkedIn API keys required. Features built-in SQLite persistence and a 24/7 background watcher daemon.
 
@@ -25,7 +25,6 @@
 - [API Reference](#-api-reference)
 - [Step-by-Step: Push to GitHub](#-step-by-step-how-to-push-to-github)
 - [Project Directory Structure](#-project-directory-structure)
-- [License](#-license)
 
 ---
 
